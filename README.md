@@ -25,5 +25,8 @@ The dataset used in this project was taken from Kaggle:
 - Created calculated columns (e.g., Total Medals, Gender Ratio)  
 - Imported the cleaned dataset into Power BI for analysis
 
-# Dashboard 
+## Dashboard 
+
+<img width="674" height="379" alt="Dashboard_Preview" src="https://github.com/user-attachments/assets/641e4a28-8a58-4d2e-b5d7-bf56bd69fea6" />
+
   
